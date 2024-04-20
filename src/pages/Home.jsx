@@ -30,11 +30,11 @@ export default function Home() {
 
             <div className="container">
               <div className="carousel-caption">
-                <h2 className="carousel-title bounceInDown animated slow">
-                  Because they need your help
+                <h2 style={{color: 'green'}} className="carousel-title bounceInDown animated slow">
+                  MUSLIM AMBASSADORS UGANDA
                 </h2>
-                <h4 className="carousel-subtitle bounceInUp animated slow ">
-                  Do not let them down
+                <h4 style={{color: 'green'}}className="carousel-subtitle bounceInUp animated slow ">
+                  For peace and justice
                 </h4>
                 <a
                   href="#"
