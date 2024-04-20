@@ -33,8 +33,8 @@ export default function Home() {
                 <h2 style={{color: 'green'}} className="carousel-title bounceInDown animated slow">
                   MUSLIM AMBASSADORS UGANDA
                 </h2>
-                <h4 style={{color: 'green'}}className="carousel-subtitle bounceInUp animated slow ">
-                  For peace and justice
+                <h4 style={{color: 'green', textTransform: 'lowercase'}}className="carousel-subtitle bounceInUp animated slow ">
+                  "For peace and justice"
                 </h4>
                 <a
                   href="#"
