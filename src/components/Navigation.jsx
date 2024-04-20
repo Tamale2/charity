@@ -21,8 +21,8 @@ export default function Navigation() {
         </button>
 
         <a  className="navbar-brand" href="index.html">
-          <img style={{width: '50px',flexDirection: 'column'}} src="images/ourlogo.png" alt="" />
-          <img style={{width: '50px', flexDirection: 'column'}} src="images/ourlogo2.png" alt="" />
+          <img style={{width: '50px'}} src="images/ourlogo.png" alt="" />
+          <img style={{width: '50px', float: 'right'}} src="images/ourlogo2.png" alt="" />
         </a>
       </div>
 
