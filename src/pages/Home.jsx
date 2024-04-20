@@ -142,7 +142,7 @@ export default function Home() {
                     and providing support to those in need,
                     <strong style={{ color: "green" }}>
                       {" "}
-                      Uganda Muslim Brotherhood{" "}
+                     Muslim Ambassadors Uganda{" "}
                     </strong>
                     Ugandacontributing to a more just and equitable society
                   </p>

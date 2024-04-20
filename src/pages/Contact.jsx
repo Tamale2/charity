@@ -83,7 +83,7 @@ export default function Contact() {
             <div className="col-md-4 col-md-offset-1 col-contact">
               <h2 className="title-style-2">
                 {" "}
-                SADAKA CONTACTS <span className="title-under"></span>
+                Muslim Ambassadors Uganda CONTACTS <span className="title-under"></span>
               </h2>
               <p>
                 <b>Sadaka</b> ipsum dolor sit amet, consectetur adipiscing elit.

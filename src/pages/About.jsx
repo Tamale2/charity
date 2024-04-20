@@ -35,7 +35,7 @@ export default function About() {
               <p>
                 We are the
                 <strong style={{ color: "green" }}>
-                  Uganda Muslim Brotherhood,
+                 Muslim Ambassadors Uganda,
                 </strong>{" "}
                  a Non-profit organisation.
               </p>
