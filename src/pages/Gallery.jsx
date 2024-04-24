@@ -1,6 +1,6 @@
 import React from 'react'
 import Navigation from '../components/Navigation'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
 export default function Gallery() {
   return (
@@ -13,17 +13,17 @@ export default function Gallery() {
 			<div className="row">
 				
 
-					<a href="images/gallery/" className="col-md-3 col-sm-4 gallery-item lightbox">
+					<a href="https://www.youtube.com/channel/UCvCxFADitwiluRF2_Ol_QdA" className="col-md-3 col-sm-4 gallery-item lightbox">
 
-						<img src="images/gallery/thumb/7610291856_931fb9f461_k.jpg" alt="" />
+						<img className="fa fa-camera-retro fa-lg" src="images/gallery/thumb/7610291856_931fb9f461_k.jpg" alt="" />
 
 						<span className="on-hover">
 							<span className="hover-caption">
 						
 						{/* <a href="https://www.youtube.com/channel/UCvCxFADitwiluRF2_Ol_QdA" className="btn">
                
-              </a> */}
-			   <a href="https://www.youtube.com/channel/UCvCxFADitwiluRF2_Ol_QdA" className="btn">
+              </a> */}<a href="#" className="btn">
+			   
                 {" "}
                 <i style={{color: 'red'}} className="fa fa-camera-retro fa-lg"></i>{" "}
               </a>
