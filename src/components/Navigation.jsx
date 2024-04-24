@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import React from "react";
 import { Link } from "react-router-dom";
+=======
+import React from "react"
+import {Link  } from "react-router-dom";
+>>>>>>> 9e72f0808fbbadf977bf4cca6f3e1597c2e415aa
 
 export default function Navigation() {
   return (
